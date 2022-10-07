@@ -1,5 +1,5 @@
-<h1 align="center">hola 👋, soy Tobias Valentini</h1>
-<h3 align="center">amo la programación, actualmente entrando a la programación de videojuegos</h3>
+<h1 align="center">Hola 👋, soy Tobias Valentini</h1>
+<h3 align="center">Amo la programación, actualmente estudiando C# y unity</h3>
 
 - 🌱 I’m currently learning **c# y unity**
 
